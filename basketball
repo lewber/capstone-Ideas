@@ -1,0 +1,20 @@
+
+
+
+
+
+
+NBA Basketball
+
+Which NBA player has the best chance to be the scoring champion for the 2017-18 season?
+
+For this project we will analyze player data from across the NBA then employ the appropriate models/approach to create our conclusion. NBA executives for each team can use this information to anticipate spikes or declines in team revenue. If a player leads the league in scoring this has a positive affect on ticket sales, jersey sales and TV primetime exposure.
+
+Our client will be NBA executives
+
+We will analyze data from:
+
+http://stats.nba.com/
+
+https://www.basketball-reference.com/leaders/pts_season.html
+
