@@ -2,17 +2,17 @@
 
 
 
-How can we predict snowfall in Houston, TX ??
+How can we predict the next snowfall or flood in Houston, TX ??
 
 Each year when it gets cold outside, the buzz heard around town is, "Are we going to get any snow this year? 
 
-For this project we want to analyze weather data and predict when it will snow again in Houston.
+For this project we want to analyze weather data and predict outcomes for Houston.
 
-Our client will be the local TX DoT department.
+Our client will be the local Texas DoT division.
 
-This is important because the weather affects just about every sector of our lives from business, to education, to the transportation industry we use weather conditions to make decisions and in many cases the negative results have great effects so we will explore this.
+This is important because the weather affects just about every sector of our lives from business, to education, to the transportation industry we use weather conditions to make decisions and in many cases the negative results have great 
+effects so we will explore this.
 
-Data sets we will use:
 
 https://www.ncdc.noaa.gov/data-access
 
